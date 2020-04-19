@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(205, 212, 189);
+    color: white;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+  }
+
+  .price {
+    font-size: xx-small;
+    color: rgb(3, 8, 248);   
+}
+
+ul {
+  list-style-type:none;
+  font-size: large  ;
+  color: black;   
+  text-align: left; 
+}
+input {
+  background-color: rgb(63, 194, 194);
+  border: none;
+  color: white;
+  padding: 6px 24px;
+  text-decoration: none;
+  margin: 14px 2px;
+  border-radius: 15px; 
+}
